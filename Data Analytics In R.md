@@ -11,7 +11,7 @@ To install R please visit this site(windows users) https://cran.r-project.org/bi
 For Mac and other systems please just google how to install R on mac/linux etc and you will be guided on how to install R on your system.<br>
 Once you have R on your system, you can run commands either using an editor or directly from R command line interface.<br>
 When you open R this is what you see: <br>
-![R console](console.png)
+![R console](console.PNG)
 <br>
 You can start typing commands directly in this console. To print Hello R on the screen simply type <i>print("Hello R")</i> You can use either single quotes or double quotes.<br>
 The print <i>keyward</i> is optional, you can simply type <i>'Hello R'</i>
